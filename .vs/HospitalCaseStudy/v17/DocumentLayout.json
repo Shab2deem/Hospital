@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\migrations\\20260930084032_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\migrations\\20260930084032_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\models\\medicalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\models\\medicalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\models\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\models\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|c:\\users\\magdy.mansour\\source\\repos\\hospitalcasestudy\\hospitalcasestudy\\models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480967C8-D763-4AE2-AA18-FE74D75273BD}|HospitalCaseStudy\\HospitalCaseStudy.csproj|solutionrelative:hospitalcasestudy\\models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260930084032_init.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Migrations\\20260930084032_init.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Migrations\\20260930084032_init.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Migrations\\20260930084032_init.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Migrations\\20260930084032_init.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:40:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\appsettings.json",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\appsettings.json",
+              "RelativeToolTip": "HospitalCaseStudy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T08:29:34.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Program.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Program.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T06:53:32.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\DoctorModel.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Models\\DoctorModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\DoctorModel.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Models\\DoctorModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T06:58:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAH8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:20:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicalRecordModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\MedicalRecordModel.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Models\\MedicalRecordModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\MedicalRecordModel.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Models\\MedicalRecordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:17:51.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\PatientModel.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Models\\PatientModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\PatientModel.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Models\\PatientModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:10:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Models\\DepartmentModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Models\\DepartmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T06:56:57.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommonModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\CommonModel.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Models\\CommonModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\CommonModel.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Models\\CommonModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:00:19.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\AppointmentModel.cs",
+              "RelativeDocumentMoniker": "HospitalCaseStudy\\Models\\AppointmentModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\HospitalCaseStudy\\HospitalCaseStudy\\Models\\AppointmentModel.cs",
+              "RelativeToolTip": "HospitalCaseStudy\\Models\\AppointmentModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T07:14:31.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
